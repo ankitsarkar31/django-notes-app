@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: notes-app
-        image: ankitsarkar31/my-note-app
+        image: my-note-app
         ports:
         - containerPort: 8000
